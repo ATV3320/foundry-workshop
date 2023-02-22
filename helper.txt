@@ -1,0 +1,2 @@
+https://book.getfoundry.sh/reference/forge-std/console-log
+and similar links.
